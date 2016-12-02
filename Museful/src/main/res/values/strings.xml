@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Museful</string>
+
+    <string name="subscription_key">2b809ac074a04149be42f2ebf91541d0</string>
+
+    <!-- Strings on the Main screen -->
+    <string name="edittext_error">Writing your feelings down should help you. Try it..</string>
+    <string name="button_analyze">Analyze</string>
+    <string name="label_detected_language">Detected Language</string>
+    <string name="label_key_phrases">Key phrases</string>
+    <string name="label_sentiment_score">Sentiment score</string>
+
+    <string name="progress_bar_title">In progress</string>
+    <string name="need_API_key">Enter a valid API key in strings.xml or on the app Key screen!</string>
+
+    <!-- Detected Topics-->
+    <string name="title_activity_detected_topics">Detect Topics</string>
+    <string name="go_to_detected_topics_screen">Go to Detected Topics screen</string>
+    <string name="button_text_get_so_questions">1. Get Stack Overflow questions</string>
+    <string name="button_get_opid">2. Get Operation ID</string>
+    <string name="label_detected_topics">Detected topics</string>
+    <string name="button_text_detect_topics">3. Detect Topics</string>
+    <string name="no_of_so_questions">%1$d questions unanswered or with no answers</string>
+
+    <!-- Strings on the Subscription key screen-->
+    <string name="action_key">Service Key</string>
+    <string name="title_activity_key">Subscription Key</string>
+    <string name="key_instruction_details">
+        To use the service, you need to ensure that you have a valid subscription key.
+        \n\nPlease note that each service (Face, Emotion, Speech, etc) has its own subscription key.
+        \n\nIf you do not have a key yet, please use <a href="https://www.microsoft.com/cognitive-services/en-us/sign-up">this link</a> to get an API key,
+        and then enter it below.
+    </string>
+
+    <!-- Errors -->
+    <string name="error_api_call">Error getting data.</string>
+
+    <string name="detected_topics_activity_desc">Retrieve unanswered questions from Stack Overflow for topic detection. Step 3 may take longer than 5 minutes.</string>
+    <string name="title_activity_new_event">How are you feeling?</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_confirm">Save</string>
+
+    <string name="help">•	Practise slow, deep breathing in preparation for panic attacks; breathe in deeply through your nose and count to three, then breathe out slowly – this can calm you down if you’re scared that you’ll have a panic attack
+        \n\n•	Avoid resisting a panic attack – it could make your symptoms worse, instead try to focus on remembering that your life isn’t at risk and that you’ll get past the attack
+\n\n•	Try to challenge your fear; you have noted down what you felt, why do you think you felt like this? Was it rational?
+</string>
+    <string name="help2">
+•	Please seek help immediately: you can contact the Samaritans at 116 123, or your local Accident and Emergency department at 999
+\n\n•	Suicide is a permanent solution to a temporary problem, though life might be painful now, think about things you would like to see and do in the future.</string>
+
+</resources>
